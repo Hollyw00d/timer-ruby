@@ -15,3 +15,4 @@ end
 total_time = timer{ sleep(1) }
 
 puts "Above 0.5 seconds" if total_time > 0.5
+
